@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I love Scala! I'm currently implementing AlphaZero in Scala.
+I love Scala!
 
 <!--
 **LeeSangYooon/LeeSangYooon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
