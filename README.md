@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-Learning Scala
+프로그래밍 언어:
+https://github.com/LeeSangYooon/sinfonia
+
+그래프 언어:
+https://github.com/LeeSangYooon/graph
+
 
 <!--
 **LeeSangYooon/LeeSangYooon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
